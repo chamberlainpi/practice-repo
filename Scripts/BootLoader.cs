@@ -5,5 +5,7 @@ class BootLoader
         // Just adding a comment to test the Git commit
 
         Console.WriteLine("This is a new line in the Boot Loader!");
+
+        // Fixed that bug screen flicker, take that! haha
     }
 }
